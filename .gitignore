@@ -14,6 +14,12 @@ examples/resumable_put/up_demo
 examples/resumable_put/huge_file.txt
 
 tests/qiniutest
+Debug/
+c-sdk.sdf
+c-sdk.vcxproj.filters
+c-sdk.vcxproj.user
+c-sdk.opensdf
+c-sdk.suo
 
 .deps/
 .libs/

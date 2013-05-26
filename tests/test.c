@@ -35,7 +35,6 @@ int main()
 
 	QINIU_ACCESS_KEY	= getenv("QINIU_ACCESS_KEY");
 	QINIU_SECRET_KEY	= getenv("QINIU_SECRET_KEY");
-
 	assert(QINIU_ACCESS_KEY != NULL);
 	assert(QINIU_SECRET_KEY != NULL);
 
